@@ -45,7 +45,15 @@ My aim is to leverage my passion for **programming and web development** to crea
 
 ---
 
+## 🐍 GitHub Contribution Snake  
+
+<p align="center">
+  <img src="https://github.com/TalhaMudassar/TalhaMudassar/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
 ## 🤝 Let’s Connect!  
 I’m always open to new ideas, collaborations, and learning opportunities in technology. Feel free to reach out:  
 - 📧 **Email**: [talhamudassar200@gmail.com]  
-- 💬 Let’s collaborate on **Django-based projects** or **AI-integrated web applications**!
+- 💬 Let’s collaborate on **Django-based projects**, **AI-integrated web applications**, or any exciting **full-stack challenges**!
