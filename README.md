@@ -16,26 +16,26 @@
 
 # Hello, I'm Talha Mudassar! 👋  
 
-I’m a passionate Computer Science enthusiast, actively learning and expanding my skills in software development and web technologies. My journey started with a strong foundation in **C++**, focusing on OOP and DSA, and I have since dived into full-stack web development, combining technologies like **React** and **Django** to create impactful projects.
+I’m a Computer Science student in my 5th semester at UCP, passionate about software development and web technologies. I started with **C++** and have expanded my skills to **JavaScript, React, Django, and the MERN stack**, along with **MySQL** for database management.
 
 ## 🛠 About Me  
-- 🔭 **Currently Exploring**: Full-stack web development, particularly with **React** and **Django**, and delving into **AI integration** for web applications.  
-- 🌱 **Current Focus**: Building complex full-stack applications, such as a student management system using **Django**.  
-- 💻 **Passionate About**: Solving coding challenges, developing efficient algorithms, and creating user-centric applications.  
+- 🔭 **Currently Exploring**: Full-stack web development with **React and Django**.  
+- 🌱 **Current Focus**: Building real-world projects and improving my problem-solving skills.  
+- 💻 **Passionate About**: Writing clean code, debugging, and learning new technologies.  
 
 ---
 
 ## 🌟 Skills  
 ### **Languages and Frameworks**  
 - **Programming**: C, C++ (OOP, DSA), Python  
-- **Web Development**: React.js, Django, HTML, CSS, JavaScript  
+- **Web Development**: JavaScript, React.js, Django, MERN Stack, HTML, CSS  
 - **Databases**: SQL (MySQL)  
 - **Other Interests**: AI, Problem Solving, and Debugging  
 
 ---
 
 ## 🚀 Goals  
-My aim is to leverage my passion for **programming and web development** to create impactful solutions. I’m eager to collaborate with like-minded professionals, solve challenging problems, and contribute to meaningful projects.
+I want to build **efficient and scalable applications** while constantly learning and improving my skills. I enjoy collaborating with others and tackling new challenges in web development.
 
 ---
 
@@ -47,11 +47,9 @@ My aim is to leverage my passion for **programming and web development** to crea
 ### Contribution Streak:  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TalhaMudassar)](https://github.com/TalhaMudassar)
 
-
-
 ---
 
 ## 🤝 Let’s Connect!  
 I’m always open to new ideas, collaborations, and learning opportunities in technology. Feel free to reach out:  
 - 📧 **Email**: [talhamudassar200@gmail.com]  
-- 💬 Let’s collaborate on **Django-based projects**, **AI-integrated web applications**, or any exciting **full-stack challenges**!
+- 💬 Let’s collaborate on **Django-based projects**, **AI-integrated web applications**, or any exciting **full-stack challenges**!  
