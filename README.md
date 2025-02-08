@@ -16,21 +16,21 @@
 
 # Hello, I'm Talha Mudassar! 👋  
 
-I’m a Computer Science student in my 5th semester at UCP, passionate about software development and web technologies. I started with **C++** and have expanded my skills to **JavaScript, React, Django, and the MERN stack**, along with **MySQL** for database management.
+I’m a Computer Science student in my 6th semester at UCP, working on expanding my knowledge and skills in both software development and web technologies. My journey started with a solid foundation in C++. I’m also gaining hands-on experience in web development **JavaScript, React, Django, and the MERN stack**, along with **MySQL and SQL** for database management.
 
 ## 🛠 About Me  
 - 🔭 **Currently Exploring**: Full-stack web development with **React and Django**.  
 - 🌱 **Current Focus**: Building real-world projects and improving my problem-solving skills.  
-- 💻 **Passionate About**: Writing clean code, debugging, and learning new technologies.  
+- 💻 **Passionate About**: ARITIFICAL_INTELLIGENCE AND MACHINE_LEARNING  and learning new technologies.  
 
 ---
 
 ## 🌟 Skills  
 ### **Languages and Frameworks**  
-- **Programming**: C, C++ (OOP, DSA), Python  
+- **Programming**: C, C++ (OOP, DSA), Python,BigData Techniques 
 - **Web Development**: JavaScript, React.js, Django, MERN Stack, HTML, CSS  
 - **Databases**: SQL (MySQL)  
-- **Other Interests**: AI, Problem Solving, and Debugging  
+- **Other Interests**: AI, ML
 
 ---
 
