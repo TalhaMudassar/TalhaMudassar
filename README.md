@@ -5,7 +5,6 @@
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/talhamudassar"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
- 
   <a href="https://twitter.com/TalhaMudassar"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
 </p>
 <p align="center">
@@ -21,21 +20,21 @@ I’m a Computer Science student in my 6th semester at UCP, working on expanding
 ## 🛠 About Me  
 - 🔭 **Currently Exploring**: Full-stack web development with **React and Django**.  
 - 🌱 **Current Focus**: Building real-world projects and improving my problem-solving skills.  
-- 💻 **Passionate About**: ARITIFICAL_INTELLIGENCE AND MACHINE_LEARNING  and learning new technologies.  
+- 💻 **Passionate About**: ARTIFICIAL_INTELLIGENCE AND MACHINE_LEARNING and learning new technologies.  
 
 ---
 
 ## 🌟 Skills  
 ### **Languages and Frameworks**  
-- **Programming**: C, C++ (OOP, DSA), Python,BigData Techniques 
+- **Programming**: C, C++ (OOP, DSA), Python, BigData Techniques  
 - **Web Development**: JavaScript, React.js, Django, MERN Stack, HTML, CSS  
 - **Databases**: SQL (MySQL)  
-- **Other Interests**: AI, ML
+- **Other Interests**: AI, ML  
 
 ---
 
 ## 🚀 Goals  
-I want to build **efficient and scalable applications** while constantly learning and improving my skills. I enjoy collaborating with others and tackling new challenges in web development.
+I want to build **efficient and scalable applications** while constantly learning and improving my skills. I enjoy collaborating with others and tackling new challenges in web development.  
 
 ---
 
