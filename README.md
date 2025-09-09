@@ -13,35 +13,31 @@
 
 ---
 
-# Hello, I'm Talha Mudassar! 👋  
+# Hello, I'm Talha Mudassar!   
 
-I’m a Computer Science student in my 7th semester at UCP, working on expanding my knowledge and skills in both software development and web technologies. My journey started with a solid foundation in C++. I’m also gaining hands-on experience in web development **JavaScript, React, Django, and the MERN stack**, along with **MySQL and SQL** for database management.
+I am a Computer Science student in my 7th semester at UCP, continuously expanding my expertise in software development and modern web technologies. My journey began with a strong foundation in **C++**, where I gained solid knowledge of **Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA), databases, cloud computing, and big data**. I have also explored **operating systems and artificial intelligence**, further broadening my technical skills. Currently, I am focusing on **Django** for backend development and full-stack projects, while also learning **FastAPI** to strengthen my backend and API development skills.  
 
-## 🛠 About Me  
--  **Currently Exploring**: Full-stack web development with **React and Django**.  
--  **Current Focus**: Building real-world projects and improving my problem-solving skills.  
--  **Passionate About**: ARTIFICIAL_INTELLIGENCE AND MACHINE_LEARNING and learning new technologies.  
+**Passionate About**: ARTIFICIAL_INTELLIGENCE, MACHINE_LEARNING, and learning new technologies.  
 
 ---
 
-## ⚡ Skills  
+##  Skills  
 ### **Languages and Frameworks**  
-- **Programming**: C, C++ (OOP, DSA), Python, BigData Techniques  
-- **Web Development**: JavaScript, React.js, Django, MERN Stack, HTML, CSS  
-- **Databases**: SQL (MySQL)  
-- **Other Interests**: AI, ML  
+- **Programming**: C, C++ (OOP, DSA), Python, AI Algorithms, Big-Data Techniques,Cloud Foundation  
+- **Web Development**: JavaScript, React.js, Django, HTML, CSS, FastAPI  
+- **Databases**: SQL, MySQL  
+- **Other Interests**: AI, ML, APIs  
 
 ---
 
-## 🎯 Goals  
-I want to build **efficient and scalable applications** while constantly learning and improving my skills. I enjoy collaborating with others and tackling new challenges in web development.  
+##  Goals  
+I want to build **efficient and scalable applications** while constantly learning and improving my skills. I enjoy collaborating with others and tackling new challenges in web development. I am also **passionate about and interested in Machine Learning and Deep Learning** to explore intelligent and data-driven solutions.  
 
 ---
 
 ## 📊 My Stats  
 
 ### 🔥 Most Used Languages  
-<!-- Hiding CSS and HTML so Python/JS appear as main focus -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TalhaMudassar&hide=css,html&layout=compact)](https://github.com/TalhaMudassar)
 
 ### 📈 Contribution Streak  
@@ -51,5 +47,5 @@ I want to build **efficient and scalable applications** while constantly learnin
 
 ## 🤝 Let’s Connect!  
 I’m always open to new ideas, collaborations, and learning opportunities in technology. Feel free to reach out:  
-- 📧 **Email**: [talhamudassar200@gmail.com]  
-- 💬 Let’s collaborate on **Django-based projects**, **AI-integrated web applications**, or any exciting **full-stack challenges**!  
+-  **Email**: [talhamudassar200@gmail.com]  
+-  Let’s collaborate on **Django-based projects**, **FastAPI applications**, **AI-integrated web solutions**, or any exciting **full-stack challenges**!  
