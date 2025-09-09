@@ -24,7 +24,7 @@ I’m a Computer Science student in my 7th semester at UCP, working on expanding
 
 ---
 
-##  Skills  
+## ⚡ Skills  
 ### **Languages and Frameworks**  
 - **Programming**: C, C++ (OOP, DSA), Python, BigData Techniques  
 - **Web Development**: JavaScript, React.js, Django, MERN Stack, HTML, CSS  
@@ -33,17 +33,18 @@ I’m a Computer Science student in my 7th semester at UCP, working on expanding
 
 ---
 
-##  Goals  
+## 🎯 Goals  
 I want to build **efficient and scalable applications** while constantly learning and improving my skills. I enjoy collaborating with others and tackling new challenges in web development.  
 
 ---
 
-##  My Stats  
+## 📊 My Stats  
 
-### My Most Used Languages:  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TalhaMudassar&layout=compact)](https://github.com/TalhaMudassar)
+### 🔥 Most Used Languages  
+<!-- Hiding CSS and HTML so Python/JS appear as main focus -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TalhaMudassar&hide=css,html&layout=compact)](https://github.com/TalhaMudassar)
 
-### Contribution Streak:  
+### 📈 Contribution Streak  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TalhaMudassar)](https://github.com/TalhaMudassar)
 
 ---
