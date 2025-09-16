@@ -38,7 +38,7 @@ I want to build **efficient and scalable applications** while constantly learnin
 
 ## 📊 My Stats  
 
-### 🔥 Most Used Languages  
+### 🔥  Most Used Languages  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TalhaMudassar&hide=css,html&layout=compact)](https://github.com/TalhaMudassar)
 
 ### 📈 Contribution Streak  
