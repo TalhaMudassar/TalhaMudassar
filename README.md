@@ -43,7 +43,7 @@ I want to build **efficient and scalable applications** while constantly learnin
 
 
 ### 📈 Contribution Streak  
-[![GitHub Streak](https://streak-stats.demolab.com?user=talhamudassar)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TalhaMudassar)
 
 ---
 
