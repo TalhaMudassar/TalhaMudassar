@@ -14,7 +14,7 @@
 
 ---
 
-# Hello, I'm Talha Mudassar! 👋  
+# Hello, I'm Talha Mudassar!   
 
 I am a Computer Science student in my 7th semester at UCP, continuously expanding my expertise in software development and modern web technologies. My journey began with a strong foundation in **C++**, where I gained solid knowledge of **Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA), databases, cloud computing, and big data**. I have also explored **operating systems and artificial intelligence**, further broadening my technical skills. Currently, I am focusing on **Django** for backend development and full-stack projects, while also learning **FastAPI** to strengthen my backend and API development skills.  
 
@@ -22,7 +22,7 @@ I am a Computer Science student in my 7th semester at UCP, continuously expandin
 
 ---
 
-## ⚡ Skills  
+##  Skills  
 ### **Languages and Frameworks**  
 - **Programming**: C, C++ (OOP, DSA), Python, AI Algorithms, BigData Techniques  
 - **Web Development**: JavaScript, React.js, Django, HTML, CSS, FastAPI  
@@ -31,14 +31,14 @@ I am a Computer Science student in my 7th semester at UCP, continuously expandin
 
 ---
 
-## 🎯 Goals  
+##  Goals  
 I want to build **efficient and scalable applications** while constantly learning and improving my skills. I enjoy collaborating with others and tackling new challenges in web development. I am also **passionate about and interested in Machine Learning and Deep Learning** to explore intelligent and data-driven solutions.  
 
 ---
 
-## 📊 My Stats  
+##  My Stats  
 
-### 🔥  Most Used Languages  
+###   Most Used Languages  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TalhaMudassar&hide=css,html&layout=compact)](https://github.com/TalhaMudassar)
 
 
@@ -47,8 +47,8 @@ I want to build **efficient and scalable applications** while constantly learnin
 
 ---
 
-## 🤝 Let’s Connect!  
+##  Let’s Connect!  
 I’m always open to new ideas, collaborations, and learning opportunities in technology. Feel free to reach out:  
-- 📧 **Email**: [talhamudassar200@gmail.com]  
-- 💬 **WhatsApp**: [Chat with me](https://wa.me/923106060775)  
-- 🚀 Let’s collaborate on **Django-based projects**, **FastAPI applications**, **AI-integrated web solutions**, or any exciting **full-stack challenges**!  
+-  **Email**: [talhamudassar200@gmail.com]  
+-  **WhatsApp**: [Chat with me](https://wa.me/923106060775)  
+-  Let’s collaborate on **Django-based projects**, **FastAPI applications**, **AI-integrated web solutions**, or any exciting **full-stack challenges**!  
