@@ -1,12 +1,12 @@
 <h1 align="center" style="color:#00BFFF;">Hi, I'm Talha Mudassar 👋</h1>
 <p align="center">
-  💻 Full Stack Developer | Python & Django Developer | AI/ML Enthusiast | Computer Science Student
+  <strong>Computer Science Graduate | Python • FastAPI • Django | Deep Learning & ML | Problem Solver</strong>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/talhamudassar" target="_blank">LinkedIn</a> •
-  <a href="https://twitter.com/TalhaMudassar" target="_blank">Twitter</a> •
-  <a href="https://wa.me/923106060775" target="_blank">WhatsApp</a>
+  <a href="https://wa.me/923106060775" target="_blank">WhatsApp</a> •
+  <a href="mailto:talhamudassar200@gmail.com">Email</a>
 </p>
 
 <p align="center">
@@ -15,54 +15,40 @@
 
 <hr style="border: 1px solid #00BFFF;" />
 
-<h2 style="color:#00BFFF;">💫 About Me</h2>
+<h2 style="color:#00BFFF;">💫 Professional Profile</h2>
 
-Hi! I'm **Talha Mudassar**, a passionate **Full Stack Developer** and **Computer Science student at UCP**.  
-I focus on building scalable, efficient web applications using **Python**, **Django**, and **modern frontend technologies**.  
-I'm also exploring **AI**, **Machine Learning**, and **FastAPI** to enhance my backend and data-driven development skills.
+I am a **Computer Science Graduate from UCP** dedicated to building reliable web applications and data-driven solutions. I bridge the gap between backend engineering and machine learning to solve practical user problems.
 
-🔹 Currently learning **Django**, **FastAPI**, and **AI/ML applications**  
-🔹 Strong foundation in **C++**, **OOP**, **DSA**, and **Databases**  
-🔹 Interested in **Cloud Technologies (AWS)** and **Big Data**  
-🔹 Love solving real-world problems with code 🚀  
+🔹 Building and maintaining stable APIs with **Python, FastAPI, and Django** 
+🔹 Implementing **Deep Learning** and **ML models** to solve real-world problems  
+🔹 Streamlining development and deployment using **Docker** and **Hugging Face** 
+🔹 Leveraging **AI-assisted tools** to enhance engineering productivity and code quality  
+🔹 Strong foundation in **Data Structures (DSA)**, **OOP**, and **Database Management** 
+🔹 Focused on solving user-centric problems with efficient and scalable code 🚀  
 
 ---
 
 <h2 style="color:#00BFFF;">🧠 Tech Stack</h2>
 
-### 🎨 Frontend
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### 🔧 Backend & APIs
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### 🧬 AI / ML / Data Science
+### 🏗️ Backend & DevOps
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/-Seaborn-9B59B6?style=for-the-badge&logo=python&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 🧬 Deep Learning & ML
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### 🧱 Databases
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### ☁️ Cloud
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-### 🛠️ Tools & Others
-![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
@@ -71,24 +57,6 @@ I'm also exploring **AI**, **Machine Learning**, and **FastAPI** to enhance my b
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TalhaMudassar&theme=blueberry&show_icons=true&hide_border=false&border_radius=10" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TalhaMudassar&theme=blueberry&hide_border=false" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalhaMudassar&layout=compact&theme=blueberry&hide_border=false"/>
-</p>
-
----
-
-<h2 style="color:#00BFFF;">🏆 Achievements</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TalhaMudassar&theme=radical&no-frame=false&no-bg=false&margin-w=10" />
-</p>
-
-<h2 style="color:#00BFFF;">📌 Contributions</h2>
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=TalhaMudassar&limit=5&theme=blueberry" />
 </p>
 
 ---
@@ -100,5 +68,5 @@ I'm also exploring **AI**, **Machine Learning**, and **FastAPI** to enhance my b
 </p>
 
 <p align="center">
-  ❤️ Made with passion by Talha Mudassar
+  Focused on real-world solutions | Talha Mudassar
 </p>
