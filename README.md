@@ -19,11 +19,11 @@
 
 I am a **Computer Science Graduate from UCP** dedicated to building reliable web applications and data-driven solutions. I bridge the gap between backend engineering and machine learning to solve practical user problems.
 
-🔹 Building and maintaining stable APIs with **Python, FastAPI, and Django** 
+🔹 Building and maintaining stable APIs with **Python, FastAPI, and Django**  
 🔹 Implementing **Deep Learning** and **ML models** to solve real-world problems  
-🔹 Streamlining development and deployment using **Docker** and **Hugging Face** 
+🔹 Streamlining development and deployment using **Docker** and **Hugging Face**  
 🔹 Leveraging **AI-assisted tools** to enhance engineering productivity and code quality  
-🔹 Strong foundation in **Data Structures (DSA)**, **OOP**, and **Database Management** 
+🔹 Strong foundation in **Data Structures (DSA)**, **OOP**, and **Database Management**  
 🔹 Focused on solving user-centric problems with efficient and scalable code 🚀  
 
 ---
@@ -56,7 +56,7 @@ I am a **Computer Science Graduate from UCP** dedicated to building reliable web
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TalhaMudassar&theme=blueberry&show_icons=true&hide_border=false&border_radius=10" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TalhaMudassar&theme=blueberry&hide_border=false" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=TalhaMudassar&theme=blueberry&hide_border=false&border_radius=10" height="180"/>
 </p>
 
 ---
